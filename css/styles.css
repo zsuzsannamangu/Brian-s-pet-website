@@ -14,10 +14,18 @@ p{
 .author{
   width: 50%;
   font-weight: bold;
-  text-align: right; 
+  text-align: right;
 }
 
 .badass{
   font-style: oblique;
   color: teal;
+}
+
+.pet{
+  border-radius: 25px;
+  width: 50%;
+  padding:1px;
+  border:1px solid #021a40;
+  background-color:#ff0;
 }
