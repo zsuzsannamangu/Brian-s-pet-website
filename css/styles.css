@@ -1,6 +1,7 @@
 body{
   background-color: skyblue;
 }
+
 h1{
   color: blue;
 }
@@ -10,8 +11,12 @@ p{
 }
 
 .important{
-  color:red
+  color: red;
   font-size: 50px;
+}
+
+.unimportant{
+  color: magenta;
 }
 
 .author{
@@ -31,4 +36,12 @@ p{
   padding:16px;
   border:15px solid pink;
   background-color:yellow;
+}
+
+.future{
+  color: brown;
+}
+
+#stink{
+  text-decoration: underline;
 }
