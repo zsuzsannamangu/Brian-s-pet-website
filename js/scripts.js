@@ -17,3 +17,9 @@ $(function() {
     $("body").removeClass();
   });
 });
+
+$(function() {
+  $("#clickable").click(function() {
+    $("#clickable").addClass("highlight")
+  });
+});

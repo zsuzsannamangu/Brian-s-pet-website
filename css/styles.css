@@ -64,3 +64,10 @@ button {
   background-color: black;
   color: white;
 }
+
+.highlight {
+  background-color: yellow;
+  margin: 12px;
+  border: 6px solid #CD5C5C;
+  padding: 4px;
+}
