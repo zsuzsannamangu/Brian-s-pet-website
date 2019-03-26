@@ -11,3 +11,9 @@ $(function() {
     $("body").addClass("light-setting");
   });
 });
+
+$(function() {
+  $("button#original").click(function() {
+    $("body").removeClass();
+  });
+});
