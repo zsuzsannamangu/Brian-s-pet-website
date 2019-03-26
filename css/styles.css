@@ -6,31 +6,31 @@ h1{
   color: blue;
 }
 
-p{
+p {
   font-style: italic;
 }
 
-.important{
+.important {
   color: red;
   font-size: 50px;
 }
 
-.unimportant{
+.unimportant {
   color: magenta;
 }
 
-.author{
+.author {
   width: 50%;
   font-weight: bold;
   text-align: right;
 }
 
-.badass{
+.badass {
   font-style: oblique;
   color: teal;
 }
 
-.pet{
+.pet {
   border-radius: 50px;
   width: 50%;
   padding:16px;
@@ -38,15 +38,29 @@ p{
   background-color:yellow;
 }
 
-.future{
+.future {
   color: brown;
 }
 
-#stink{
+#stink {
   text-decoration: underline;
 }
 
 .spacing {
   margin-top: 50px;
   margin-bottom: 50px;
+}
+
+button {
+  font-size: 30px;
+}
+
+.light-setting {
+  background-color: white;
+  color: black;
+}
+
+.dark-setting {
+  background-color: black;
+  color: white;
 }
